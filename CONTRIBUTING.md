@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-**Welcome to Chatbot UI!**
+**Welcome to Chatbot UI!**qqqqq
 
 We appreciate your interest in contributing to our project.
 
